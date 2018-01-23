@@ -9,4 +9,4 @@ run this program by using command npm start.
 
 ![alt text](image/demo1.jpg)
 
-![alt text](image/demo2.jpg)
+
