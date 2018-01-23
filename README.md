@@ -5,7 +5,7 @@ To run this install all dependencies by using command npm install.
 
 run this program by using command npm start.
 
-App look-like
+## App look-like
 
 ![alt text](image/demo1.jpg)
 
